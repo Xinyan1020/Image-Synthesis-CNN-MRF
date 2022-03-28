@@ -5,4 +5,4 @@ In this project, we replaced the VGG-19 network, which was used to extract the f
 python main.py /path/to/content/image/ /path/to/style/image/
 # Our results
 changing the content layer:
-![image]https://github.com/Xinyan1020/Image-Synthesis-CNN-MRF/blob/main/Our_Experimental_Results/S_10_12_and_C_14.jp
+![image]https://github.com/Xinyan1020/Image-Synthesis-CNN-MRF/blob/main/Our_Experimental_Results/S_10_12_and_C_14.jpg
